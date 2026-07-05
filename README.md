@@ -1,6 +1,7 @@
 This repository only adds 1 bin file that i compiled for my board.
 The issue with bruce for now is missing otadata partition in both releases and webflasher. I added that partition, compiled the binary and flashed it - everything worked for me. I will not fix or change the file. I might update it in the future.
 My board chip is N16R8.
+The file name is Bruce-esp32-s3-devkitc1-psram-fixed.bin. Just download and flash it at 0x0.
 
 ![Bruce Main Menu](./media/pictures/bruce_banner.jpg)
 
